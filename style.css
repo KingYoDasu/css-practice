@@ -12,6 +12,7 @@ body {
 .btn {
   margin-top: 10px;
   margin-left: 10px;
+  cursor: pointer;
 }
 
 .subscribe {
@@ -21,7 +22,6 @@ body {
   width: 105px;
   height: 36px;
   border-radius: 2px;
-  cursor: pointer;
 }
 .join {
   background-color: white;
@@ -31,7 +31,6 @@ body {
   width: 62px;
   height: 36px;
   border-radius: 2px;
-  cursor: pointer;
 }
 .tweet {
   background-color: rgb(2, 158, 255);
@@ -42,7 +41,6 @@ body {
   border-radius: 18px;
   font-weight: 500;
   font-size: 15px;
-  cursor: pointer;
 }
 .uber {
   background-color: black;
