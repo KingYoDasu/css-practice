@@ -1,7 +1,17 @@
 * {
-  margin: 10 10;
+  margin: 0px;
   padding: 0;
+  box-sizing: border-box;
   font-family: "Mitr", sans-serif;
+}
+
+body {
+  display: block;
+}
+
+.btn {
+  margin-top: 10px;
+  margin-left: 10px;
 }
 
 .subscribe {
@@ -12,4 +22,79 @@
   height: 36px;
   border-radius: 2px;
   cursor: pointer;
+}
+.join {
+  background-color: white;
+  color: rgb(49, 132, 209);
+  border-width: 1px;
+  border-color: rgb(49, 132, 209);
+  width: 62px;
+  height: 36px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+.tweet {
+  background-color: rgb(2, 158, 255);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 70px;
+  border-radius: 18px;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+}
+.uber {
+  background-color: black;
+  height: 36px;
+  width: 112px;
+  color: white;
+}
+.amazon {
+  background-color: rgb(255, 216, 20);
+  border: none;
+  height: 36px;
+  width: 200px;
+  border-radius: 18px;
+  font-size: 16px;
+}
+.github {
+  background-color: rgb(46, 164, 79);
+  border: none;
+  color: white;
+  height: 36px;
+  width: 100px;
+  border-radius: 7px;
+}
+.bootstrap {
+  height: 36px;
+  width: 110px;
+  border-radius: 3px;
+}
+.bgetstart {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+}
+.bdownload {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-color: rgb(108, 117, 125);
+  border-width: 1px;
+}
+.linkedln {
+  height: 36px;
+  border-radius: 18px;
+}
+.lapply {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  width: 220px;
+}
+.lsave {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border-color: rgb(10, 102, 194);
+  width: 70px;
 }
